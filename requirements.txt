@@ -1,0 +1,16 @@
+torch==2.4.1
+torchvision==0.19.1
+xformers==0.0.28.post1
+diffusers==0.30.3
+transformers==4.37.2
+accelerate==1.0.0
+huggingface-hub==0.25.2
+safetensors>=0.4.5,<0.5
+numpy>=1.26.4,<2.1
+Pillow>=10.2,<12
+opencv-python-headless>=4.9,<4.11
+omegaconf==2.3.0
+PyYAML>=6.0.1,<7
+POT>=0.9.4,<0.10
+kornia==0.7.3
+tqdm>=4.66,<5
